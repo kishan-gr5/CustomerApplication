@@ -7,7 +7,7 @@
 	<body>
 		<%
 			Customer custmr =(Customer) request.getAttribute("cust");
-			out.println(custmr);
+			
 		%>
 		
 		<table align="center" border="1" bgcolor="blue" width="70%">
